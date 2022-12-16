@@ -1,0 +1,26 @@
+body{background-color: brown;
+
+}
+h1{background-color: black;
+color: rgb(252, 247, 247);
+height: 6vh;
+width: 150;
+}
+h3{background-color: rgb(19, 20, 20);
+    color: rgb(243, 160, 51);
+    height: 13vh;
+    width: 100;
+    text-align: center;
+
+
+}
+formphp{background-color: rgb(252, 159, 47);
+}
+div{color: aliceblue;
+    background-color: rgb(252, 152, 39);
+
+}
+.so{
+    color: rgb(5, 5, 5);
+    background-color: rgb(230, 129, 15);
+}
